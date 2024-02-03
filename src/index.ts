@@ -1,7 +1,4 @@
-console.log('Hi there.')
-
 const log = () => {
-  console.log('yolo!')
+  console.log('Node Typescript Starter ready!')
 }
-
 log();
